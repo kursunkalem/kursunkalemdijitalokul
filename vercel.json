@@ -1,8 +1,8 @@
 {
   "redirects": [
     {
-      "source": "/(.*)",
-      "destination": "https://kursunkalemdijitalegitim-xvbbdzhujuvczy7ux9afh2.streamlit.app/:match",
+      "source": "/",
+      "destination": "https://kursunkalemdijitalegitim-xvbbdzhujuvczy7ux9afh2.streamlit.app/",
       "permanent": false
     }
   ]
